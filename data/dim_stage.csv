@@ -1,0 +1,8 @@
+StageKey,Stage,StageOrder,Probability
+1,New Lead,1,0.1
+2,Contacted,2,0.2
+3,Qualified,3,0.4
+4,Proposal Sent,4,0.6
+5,Negotiation,5,0.8
+6,Won,6,1.0
+7,Lost,7,0.0
